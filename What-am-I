@@ -11,4 +11,4 @@ function isWhat(n) {
 }
 Big-O: O(n)
 Reason: The loop O(n)
-What it does: this function finds positive odd numbers
+What it does: this function finds prime numbers
