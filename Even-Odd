@@ -1,0 +1,14 @@
+What is the Big O of the following algorithm? Explain your answer
+
+function isEven(value) {
+    if (value % 2 === 0) {
+        return true;
+    }
+    else {
+        return false;
+    }
+}
+
+ Big-O :  O(1)
+ Reason: This is basic arithmetic operation and no matter the size
+ of the input only one or two operations take place
